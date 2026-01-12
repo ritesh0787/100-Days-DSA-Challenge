@@ -1,6 +1,6 @@
 # 📚 Topic-Wise Question List
 
-Complete list of 200+ DSA questions organized by topics with difficulty levels and resource links.
+Complete list of 235 DSA questions organized by topics with difficulty levels and resource links.
 
 ---
 

@@ -1,21 +1,22 @@
 # 🚀 100 Days DSA Challenge - Placement Preparation
 
-A comprehensive 100-day Data Structures and Algorithms challenge designed to help you prepare for technical interviews and placements. This challenge includes **200+ carefully curated questions** covering all essential topics.
+A comprehensive 100-day Data Structures and Algorithms challenge designed to help you prepare for technical interviews and placements. This challenge includes **235 carefully curated questions** covering all essential topics.
 
 ## 📋 Challenge Overview
 
 - **Duration**: 100 Days
-- **Total Questions**: 200+ DSA Problems
+- **Total Questions**: 235 DSA Problems
 - **Goal**: Master Data Structures & Algorithms for Placement Preparation
 - **Daily Commitment**: 2-3 hours minimum
 
 ## 🎯 Challenge Structure
 
-### Phase 1: Foundations (Days 1-30) - 60 Questions
+### Phase 1: Foundations (Days 1-30) - 70 Questions
 - **Week 1-2**: Arrays & Strings (20 questions)
 - **Week 3**: Searching & Sorting (15 questions)
 - **Week 4**: Mathematics & Bit Manipulation (15 questions)
 - **Week 5**: Recursion & Backtracking (10 questions)
+- **Additional**: Array advanced problems (10 questions)
 
 ### Phase 2: Intermediate (Days 31-60) - 70 Questions
 - **Week 6-7**: Linked Lists (15 questions)
@@ -23,20 +24,21 @@ A comprehensive 100-day Data Structures and Algorithms challenge designed to hel
 - **Week 10-11**: Binary Trees (20 questions)
 - **Week 12**: Binary Search Trees (15 questions)
 
-### Phase 3: Advanced (Days 61-90) - 60 Questions
+### Phase 3: Advanced (Days 61-90) - 80 Questions
 - **Week 13-14**: Heaps & Hashing (20 questions)
 - **Week 15-16**: Graphs (25 questions)
 - **Week 17-18**: Dynamic Programming (15 questions)
+- **Additional**: String advanced (20 questions)
 
-### Phase 4: Practice & Mock Interviews (Days 91-100) - 10+ Questions
+### Phase 4: Practice & Mock Interviews (Days 91-100) - 15+ Questions
 - **Week 19-20**: Mixed practice & company-specific questions
 - Mock interviews and revision
 
 ## 📊 Difficulty Distribution
 
-- 🟢 **Easy**: 80 questions (40%)
-- 🟡 **Medium**: 90 questions (45%)
-- 🔴 **Hard**: 30 questions (15%)
+- 🟢 **Easy**: 95 questions (40%)
+- 🟡 **Medium**: 110 questions (47%)
+- 🔴 **Hard**: 30 questions (13%)
 
 ## 📁 Repository Structure
 

@@ -6,7 +6,7 @@ Track your daily progress and maintain consistency throughout the challenge.
 
 - **Total Days**: 100
 - **Days Completed**: 0
-- **Total Questions**: 200+
+- **Total Questions**: 235
 - **Questions Solved**: 0
 - **Current Phase**: Phase 1 - Foundations
 
