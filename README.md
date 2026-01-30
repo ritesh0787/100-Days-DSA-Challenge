@@ -15,7 +15,7 @@ I am a Computer Science student in the UK, committed to mastering Data Structure
 
 ## 📅 Challenge Timeline
 
-**Start Date:** January 13, 2026  
+**Start Date:** January 30, 2026  
 **End Date:** April 22, 2026  
 **Target Problems:** 200+ (minimum 2 per day)  
 **Platforms:** LeetCode, NeetCode, HackerRank  
