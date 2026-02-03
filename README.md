@@ -15,8 +15,8 @@ I am a Computer Science student in the UK, committed to mastering Data Structure
 
 ## 📅 Challenge Timeline
 
-**Start Date:** January 30, 2026  
-**End Date:** April 22, 2026  
+**Start Date:** February 4, 2026  
+**End Date:** May 22, 2026  
 **Target Problems:** 200+ (minimum 2 per day)  
 **Platforms:** LeetCode, NeetCode, HackerRank  
 **Language:** Python
@@ -167,7 +167,7 @@ This DSA challenge runs alongside my [Phone Repair Platform Project](link-to-rep
 
 ## 📊 Current Stats
 
-**Last Updated:** January 13, 2026  
+**Last Updated:** February 4, 2026  
 **Current Streak:** 0 days  
 **Longest Streak:** 0 days  
 **Total Problems Solved:** 0/215
